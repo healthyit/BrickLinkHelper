@@ -1,24 +1,4 @@
-# frontend
+# A Public Version of my Vue Project
 
-## Project setup
-```
-npm install
-```
+<img width="1692" alt="image" src="https://github.com/healthyit/BrickLinkHelper/assets/5866853/ed9047f4-588e-481a-af73-515efbfbdc86">
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
